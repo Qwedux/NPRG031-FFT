@@ -1,0 +1,13 @@
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\Jakub\Documents\Univerzita\Programovani2\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
